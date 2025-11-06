@@ -10,8 +10,8 @@
 
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=#A8B9CC)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=#007396)
-  ![Python](https://img.shields.io/badge/-Java-333333?style=flat&logo=python&logoColor=#3776AB)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=F89820)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=#3776AB)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
